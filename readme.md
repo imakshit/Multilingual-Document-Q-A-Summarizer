@@ -16,10 +16,8 @@ A web application built with **Streamlit**, **LangChain**, and **Hugging Face Tr
 ---
 
 ## Demo
-Click on the below thumbnail to play the demo video:
 
-[![Watch the video](https://github.com/imakshit/Multilingual-Document-Q-A-Summarizer/blob/main/thumbnail.png)](https://github.com/imakshit/Multilingual-Document-Q-A-Summarizer/blob/main/Proj.mp4)
-
+![Demo GIF](https://github.com/imakshit/Multilingual-Document-Q-A-Summarizer/blob/main/proj.gif)
 
 ---
 
